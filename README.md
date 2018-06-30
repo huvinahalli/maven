@@ -1,2 +1,1 @@
-# maven
-maven test
+# maven_java_tutorial
